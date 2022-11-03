@@ -1,3 +1,5 @@
+**Requires:** Update the REQUIREMENTS.md with a database schema - The REQUIREMENTS.md must include a database schema that has tables and columns that address the API endpoints and data shapes given in the REQUIREMENTS.md including column types.  
+
 # The storefronts_dev database schema
 List of schemas
   Name  |  Owner   |  Access privileges   |      Description
